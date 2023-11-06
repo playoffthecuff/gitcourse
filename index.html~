@@ -12,12 +12,10 @@
     </style>
 </head>
 <body>
-
+<<<<<<< HEAD
   <h1>Hello Git3</h1>  
-
-  
-
-
-
+=======
+  <h1>Hello Git4</h1>  
+>>>>>>> master
 </body>
 </html>
